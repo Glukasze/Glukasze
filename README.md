@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Glukasze
-- 🎓 I’m currently polishing my Fullstack skills 
+- 🎓 I’m java backend developer 
 - 🏓 Besides programming I’m interested in biohacking and early medieval cuisine
-- 💼 I’m looking for my first job as a software developer (Java / Spring / Python / JavaScript / SQL / HTML / CSS / Maven)
 - 📫 How to reach me: gracjan.luk@gmail.com
